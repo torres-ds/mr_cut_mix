@@ -1,1 +1,1 @@
-# agent_ai
+# agentic_ai
